@@ -10,15 +10,7 @@
       width: 70px;
       padding: 25px;
     }
-    .logo{
-      background-color: #acb0ad;
-      width: 30px;
-      padding: 5px;
-      border: 2px solid #4c6e55 ;
-      border-radius: 10%;
-      text-align: center;
-    
-    }
+   
   
     .options {
       width: 50%;
@@ -29,6 +21,7 @@
   
       .option {
         padding: 10px 15px;
+        cursor : pointer;
       }
     }
   }
